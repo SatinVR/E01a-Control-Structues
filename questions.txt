@@ -1,7 +1,7 @@
 Open main1.py. Before running it, what do you expect this program to do? 
-
+I expect it to import utilities, check the version, clear the screen, output the text "Greetings!" and then ask for its favorite color, and then wait for input
 Now right click on the window and select “Run Python File in Terminal”. Click in the bottom panel, and answer the question. Describe what happened. 
-
+Greetings! What is my favorite color? appears
 What do you think the program did with what you typed?
 
 
